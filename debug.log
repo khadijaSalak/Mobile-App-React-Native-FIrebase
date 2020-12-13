@@ -1,0 +1,89 @@
+[0609/131921.352:ERROR:http_transport_win.cc(363)] WinHttpReceiveResponse: L’opération a réussi. (0x0)
+[0610/023445.129:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0610/023445.890:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0610/023445.890:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0610/023445.890:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0610/023445.890:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0610/023446.377:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.409:ERROR:exception_snapshot_win.cc(98)] thread ID 16088 not found in process
+[0610/023445.698:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.421:ERROR:exception_snapshot_win.cc(98)] thread ID 5832 not found in process
+[0610/023446.213:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.421:ERROR:exception_snapshot_win.cc(98)] thread ID 1424 not found in process
+[0610/023446.589:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.429:ERROR:exception_snapshot_win.cc(98)] thread ID 10660 not found in process
+[0610/023446.201:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.429:ERROR:exception_snapshot_win.cc(98)] thread ID 2060 not found in process
+[0610/023446.317:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.433:ERROR:exception_snapshot_win.cc(98)] thread ID 5236 not found in process
+[0610/023446.237:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.433:ERROR:exception_snapshot_win.cc(98)] thread ID 18176 not found in process
+[0610/023446.373:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.437:ERROR:exception_snapshot_win.cc(98)] thread ID 15444 not found in process
+[0610/023446.409:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.437:ERROR:exception_snapshot_win.cc(98)] thread ID 19912 not found in process
+[0610/023445.890:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.437:ERROR:exception_snapshot_win.cc(98)] thread ID 220 not found in process
+[0610/023446.653:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023447.489:ERROR:exception_snapshot_win.cc(98)] thread ID 6460 not found in process
+[0610/023448.113:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0610/023448.113:ERROR:exception_snapshot_win.cc(98)] thread ID 14640 not found in process
+[0617/055321.561:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0617/055321.702:ERROR:exception_snapshot_win.cc(98)] thread ID 12680 not found in process
+[0627/051039.697:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0627/051039.537:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0627/051040.570:ERROR:exception_snapshot_win.cc(98)] thread ID 5684 not found in process
+[0627/051040.570:ERROR:exception_snapshot_win.cc(98)] thread ID 9592 not found in process
+[0701/134633.821:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0702/005715.382:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/155852.043:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/160852.145:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/160852.146:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/161357.332:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/162857.885:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/164358.065:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/165858.131:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/171358.132:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/172858.135:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/174358.161:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/175858.165:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/181358.183:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/182858.208:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/191627.708:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/193226.569:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/194726.593:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/200226.632:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/201726.637:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/203226.689:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/203445.920:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/204726.719:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/210226.772:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/211726.774:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/213226.820:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/221903.493:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/225104.975:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/230604.976:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/232105.039:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0702/233605.041:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/002945.684:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/004445.688:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/005945.738:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/011445.740:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/012945.766:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/014816.372:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/020316.374:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/021816.436:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/023316.448:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/024816.449:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/030316.451:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/031816.453:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/034935.958:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/040435.959:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/044116.763:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/174645.725:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/211502.999:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/212411.914:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0703/212754.714:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0704/000626.664:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0704/001214.036:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0704/011445.718:ERROR:crash_report_database_win.cc(428)] unexpected header

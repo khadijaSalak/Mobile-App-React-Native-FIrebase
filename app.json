@@ -1,0 +1,32 @@
+{
+  "expo": {
+
+    "name": "MyDoctor",
+    "slug": "Doctoors",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+          "**/*"
+        ],
+    "android": {
+      "package": "com.mycompany.mydoctoors",
+      "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyAY4sl9bGNR3t6SZOmEGuhDdtzLqGkaAPk"
+      },
+    },
+      "versionCode": 1
+    }
+  }
+}

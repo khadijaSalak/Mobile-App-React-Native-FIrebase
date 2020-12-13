@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911605886134",
+    "firebase_url": "https://doctoors.firebaseio.com",
+    "project_id": "doctoors",
+    "storage_bucket": "doctoors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911605886134:android:7b0c1fc2e1b994ed7a0a17",
+        "android_client_info": {
+          "package_name": "com.mycompany.mydoctoors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911605886134-bpk4adaumcauq3a9l9hn8cv86lhgvjc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY4sl9bGNR3t6SZOmEGuhDdtzLqGkaAPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911605886134-bpk4adaumcauq3a9l9hn8cv86lhgvjc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
